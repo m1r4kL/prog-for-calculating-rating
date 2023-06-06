@@ -1,0 +1,260 @@
+[{
+  "name": "Sophia Williams",
+  "age": 18,
+  "marks": {
+    "OOP": [3, 4, 5, 4, 5],
+    "TOAPS": [4, 4, 3, 5, 4],
+    "Electronics": [2, 2, 3, 2, 5],
+    "Mathematics": [4, 5, 4, 5, 3],
+    "Economics": [3, 3, 2, 3, 2],
+    "Physics": [2, 3, 3, 2, 5],
+    "Metrology": [4, 2, 2, 5, 4]
+  },
+  "gpa": 3.4,
+  "rating": 0,
+  "group" : "21z"
+},
+{
+  "name": "Liam Johnson",
+  "age": 19,
+  "marks": {
+    "OOP": [2, 3, 3, 2, 5],
+    "TOAPS": [4, 5, 4, 5, 3],
+    "Electronics": [3, 4, 5, 4, 5],
+    "Mathematics": [2, 2, 3, 2, 5],
+    "Economics": [4, 4, 3, 5, 4],
+    "Physics": [3, 3, 2, 3, 2],
+    "Metrology": [5, 4, 5, 4, 5]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group": "21z"
+},
+  {
+    "name": "Olivia Smith",
+    "age": 20,
+    "marks": {
+      "OOP": [4, 5, 4, 5, 3],
+      "TOAPS": [2, 2, 3, 2, 5],
+      "Electronics": [4, 4, 3, 5, 4],
+      "Mathematics": [3, 3, 2, 3, 2],
+      "Economics": [5, 4, 5, 4, 5],
+      "Physics": [2, 3, 3, 2, 5],
+      "Metrology": [3, 4, 5, 4, 5]
+    },
+    "gpa": 3.8,
+    "rating": 0,
+    "group": "21i"
+  },
+  {
+    "name": "William Garcia",
+    "age": 18,
+    "marks": {
+      "OOP": [2, 2, 3, 2, 5],
+      "TOAPS": [3, 4, 5, 4, 5],
+      "Electronics": [4, 5, 4, 5, 3],
+      "Mathematics": [4, 4, 3, 5, 4],
+      "Economics": [2, 3, 3, 2, 5],
+      "Physics": [4, 5, 4, 5, 3],
+      "Metrology": [3, 3, 2, 3, 2]
+    },
+    "gpa": 3.2,
+    "rating": 0,
+    "group" : "21z"
+  }
+,
+  {
+    "name": "Emma Robinson",
+    "age": 19,
+    "marks": {
+      "OOP": [5, 4, 5, 4, 5],
+      "TOAPS": [2, 3, 3, 2, 5],
+      "Electronics": [3, 2, 2, 3, 2, 3, 4],
+      "Mathematics": [4, 5, 4, 5, 3],
+      "Economics": [4, 5, 4, 5, 3],
+      "Physics": [3, 4, 5, 4, 5],
+      "Metrology": [2, 3, 2, 3, 4]
+    },
+    "gpa": 3.6,
+    "rating": 0,
+    "group" : "21m"
+  }
+,
+  {
+    "name": "Noah Rodriguez",
+    "age": 18,
+    "marks": {
+      "OOP": [4, 5, 4, 5, 3],
+      "TOAPS": [3, 2, 3, 2, 5],
+      "Electronics": [2, 3, 3, 2, 5],
+      "Mathematics": [5, 4, 5, 4, 5],
+      "Economics": [4, 5, 4, 5, 3],
+      "Physics": [3, 2, 3, 2, 5],
+      "Metrology": [2, 3, 2, 3, 4]
+    },
+    "gpa": 3.4,
+    "rating": 0,
+    "group" : "21z"
+  }
+,
+  {
+    "name": "Isabella Hernandez",
+    "age": 19,
+    "marks": {
+      "OOP": [3, 4, 5, 4, 5],
+      "TOAPS": [4, 5, 4, 5, 3],
+      "Electronics": [2, 3, 2, 3, 4],
+      "Mathematics": [5, 4, 5, 4, 5],
+      "Economics": [3, 2, 3, 2, 5],
+      "Physics": [4, 5, 4, 5, 3],
+      "Metrology": [4, 5, 4, 5, 3]
+    },
+    "gpa": 3.8,
+    "rating": 0,
+    "group" : "21m"
+  }
+, {
+  "name": "James Nguyen",
+  "age": 18,
+  "marks": {
+    "OOP": [4, 5, 4, 5, 3],
+    "TOAPS": [3, 4, 5, 4, 5],
+    "Electronics": [2, 3, 2, 3, 4],
+    "Mathematics": [4, 5, 4, 5, 3],
+    "Economics": [3, 2, 3, 2, 5],
+    "Physics": [5, 4, 5, 4, 5],
+    "Metrology": [3, 2, 3, 2, 5]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group" : "21i"
+}
+, {
+  "name": "Sophie Lee",
+  "age": 19,
+  "marks": {
+    "OOP": [2, 3, 2, 3, 4],
+    "TOAPS": [5, 4, 5, 4, 5],
+    "Electronics": [4, 5, 4, 5, 3],
+    "Mathematics": [3, 2, 3, 2, 5],
+    "Economics": [4, 5, 4, 5, 3],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [2, 3, 2, 3, 4]
+  },
+  "gpa": 3.4,
+  "rating": 0,
+  "group" : "21i"
+}
+, {
+  "name": "Ethan Kim",
+  "age": 20,
+  "marks": {
+    "OOP": [4, 5, 3, 2, 3, 2, 5],
+    "TOAPS": [5, 4, 5, 4, 5],
+    "Electronics": [4, 5, 4, 5, 3],
+    "Mathematics": [3, 4, 5, 4, 5],
+    "Economics": [2, 3, 2, 3, 4],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [4, 5, 4, 5, 3]
+  },
+  "gpa": 3.8,
+  "rating": 0,
+  "group" : "21i"
+}
+, {
+  "name": "Avery Thomas",
+  "age": 18,
+  "marks": {
+    "OOP": [5, 4, 5, 4, 5],
+    "TOAPS": [4, 5, 4, 5, 3],
+    "Electronics": [2, 3, 2, 3, 4],
+    "Mathematics": [4, 5, 4, 5, 3],
+    "Economics": [3, 2, 3, 2, 5],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [3, 4, 5, 4, 5]
+  },
+  "gpa": 3.8,
+  "rating": 0,
+  "group" : "21z"
+},
+  {
+    "name": "Sophia Taylor",
+    "age": 20,
+    "marks": {
+      "OOP": [2, 3, 2, 3, 4],
+      "TOAPS": [4, 5, 4, 5, 3],
+      "Electronics": [5, 4, 5, 4, 5],
+      "Mathematics": [3, 2, 3, 2, 5],
+      "Economics": [4, 5, 4, 5, 3],
+      "Physics": [4, 5, 4, 5, 3],
+      "Metrology": [5, 4, 5, 4, 5]
+    },
+    "gpa": 4.0,
+    "rating": 0,
+    "group" : "21m"
+  }
+, {
+  "name": "Mason Anderson",
+  "age": 18,
+  "marks": {
+    "OOP": [4, 5, 4, 5, 3],
+    "TOAPS": [3, 2, 3, 2, 5],
+    "Electronics": [2, 3, 2, 3, 4],
+    "Mathematics": [5, 4, 5, 4, 5],
+    "Economics": [3, 2, 3, 2, 5],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [4, 5, 4, 5, 3]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group" : "21i"
+}
+, {
+  "name": "Isabella Mitchell",
+  "age": 19,
+  "marks": {
+    "OOP": [5, 4, 5, 4, 5],
+    "TOAPS": [4, 5, 4, 5, 3],
+    "Electronics": [3, 2, 3, 2, 5],
+    "Mathematics": [4, 5, 4, 5, 3],
+    "Economics": [2, 3, 2, 3, 4],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [3, 2, 3, 2, 5]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group" : "21z"
+}
+, {
+  "name": "Aria Smith",
+  "age": 19,
+  "marks": {
+    "OOP": [5, 4, 5, 4, 5],
+    "TOAPS": [4, 5, 4, 5, 3],
+    "Electronics": [3, 2, 3, 2, 5],
+    "Mathematics": [4, 5, 4, 5, 3],
+    "Economics": [2, 3, 2, 3, 4],
+    "Physics": [5, 4, 5, 4, 5],
+    "Metrology": [3, 2, 3, 2, 5]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group" : "21z"
+}
+, {
+  "name": "Lucas Rodriguez",
+  "age": 18,
+  "marks": {
+    "OOP": [4, 5, 4, 5, 3],
+    "TOAPS": [3, 2, 3, 2, 5],
+    "Electronics": [2, 3, 2, 3, 4],
+    "Mathematics": [5, 4, 5, 4, 5],
+    "Economics": [3, 2, 3, 2, 5],
+    "Physics": [4, 5, 4, 5, 3],
+    "Metrology": [4, 5, 4, 5, 3]
+  },
+  "gpa": 3.6,
+  "rating": 0,
+  "group" : "21z"
+}
+]
